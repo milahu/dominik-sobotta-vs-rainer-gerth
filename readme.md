@@ -20,53 +20,14 @@ der darf hier nicht mitreden, der soll hier schön seine Fresse halten.
 
 ## gefangen in
 
-Dominik ist gefangen in ...
+Dominik ist gefangen in
 
-
-
-### nicht mehr gefangen in
-
-Dominik ist **nicht mehr** gefangen in ...
-
-- [Dominik Sobota, Gefangener, Bezirkskrankenhaus, Lerchenhaid 32, 94315 Straubing](briefe/retour/2026-07-21.bkh-straubing.nicht-mehr-bei-uns.avif) ([impressum](https://www.bkh-straubing.de/))
-  - Patient Sobotta Dominik. Herr Sobotta befindet sich seit Juni 2026 nicht mehr bei uns im Haus
-    - also schreibt man "Sobotta" mit zwei Tee? also "Dominik Sobotta"?
-      im [telefonbuch](https://github.com/milahu/telefonbuch-deutschland) gibt es 328 Sobotta und 64 Sobota.
-      oder sind die in straubing zu blöd zum lesen und schreiben,
-      weil meinen nachnamen haben die auch falsch geschrieben ("Hayth" statt "Hauth")
-
-
-
-### vielleicht gefangen in
-
-Dominik ist **vielleicht** gefangen in
-
-- TODO wo kann er noch sein?
-  - TODO ist Dominik schon tot?
-    - traueranzeige "Dominik Sobotta"
-- Dominik Sobotta, Gefangener, Bezirksklinikum Mainkofen, Mainkofen A 3, 94469 Deggendorf
-  ([impressum](https://www.mainkofen.de/patienten-besucher/lage-umgebung/))
-- Dominik Sobotta, Gefangener, Isar-Amper-Klinikum, Bräuhausstraße 5, 84416 Taufkirchen
-  ([impressum](https://kbo-iak.de/standorte/kbo-taufkirchen-vils/kbo-klinik-fuer-forensische-psychiatrie-und-psychotherapie))
-- Dominik Sobotta, Gefangener, AMEOS Krankenhaus, Wiesenhof 10, 23730 Neustadt in Holstein
-  ([impressum](https://www.ameos.de/klinikum-neustadt/impressum/))
-- Dominik Sobotta, Gefangener, Isar-Amper-Klinikum, Vockestraße 72, 85540 Haar
-  ([impressum](https://kbo-iak.de/standorte/kbo-isar-amper-klinikum-haar))
-
-
-
-### vermutlich nicht gefangen in
-
-Dominik ist **vermutlich nicht** gefangen in ...
-weil milahu hat schon Briefe an diese Adressen geschickt,
-aber die Briefe wurden zurückgeschicht.
-
-- [Dominik Sobota, Gefangener, Bezirksklinikum Mainkofen, Mainkofen A 3, 94469 Deggendorf](briefe/retour/2026-06-11.mainkofen.retour.avif) ([impressum](https://www.mainkofen.de/patienten-besucher/lage-umgebung/))
-- [Dominik Sobota, Gefangener, Isar-Amper-Klinikum, Bräuhausstraße 5, 84416 Taufkirchen](briefe/retour/2026-07-16.iak-taufkirchen.retour.avif) ([impressum](https://kbo-iak.de/standorte/kbo-taufkirchen-vils/kbo-klinik-fuer-forensische-psychiatrie-und-psychotherapie))
-- [Dominik Sobota, Gefangener, AMEOS Krankenhaus, Wiesenhof 10, 23730 Neustadt in Holstein](briefe/retour/2026-07-27.ameos-holstein.retour.avif) ([impressum](https://www.ameos.de/klinikum-neustadt/impressum/))
-- [Dominik Sobota, Gefangener, Isar-Amper-Klinikum, Vockestraße 72, 85540 Haar](briefe/retour/2026-08-05.haar.retour.avif) ([impressum](https://kbo-iak.de/standorte/kbo-isar-amper-klinikum-haar))
-
-TODO nochmal versuchen: andere schreibweise: Dominik Sobotta
+```
+Dominik Sobotta
+SKH Altscherbitz
+Leipziger Straße 59
+04435 Schkeuditz
+```
 
 
 
