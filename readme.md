@@ -46,9 +46,9 @@ geburtsjahr: 1982 oder 1983
 
 
 
-<!--
-
 ## Fotos
+
+<!--
 
 ![](img/040f3a43-0b70-4199-aed3-460ae2959696.jpeg)
 
@@ -61,6 +61,8 @@ geburtsjahr: 1982 oder 1983
 ![](img/8f92c9a5a0a1-29-121243040.jpg)
 
 -->
+
+![](briefe/dominik-sobotta.imgp5929.jpg.scan.todo-calibrate-colors.avif)
 
 
 
