@@ -31,6 +31,12 @@ Leipziger Straße 59
 
 
 
+## email
+
+- `Dominik Sobotta <dominik.sobotta@milahu.duckdns.org>`
+
+
+
 ## geburtsjahr
 
 alter: 41 jahre am 08.04.2024 (zum tatzeitpunkt)
