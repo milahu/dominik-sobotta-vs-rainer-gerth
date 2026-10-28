@@ -68,7 +68,7 @@ geburtsjahr: 1982 oder 1983
 
 -->
 
-![](briefe/dominik-sobotta.imgp5929.jpg.scan.todo-calibrate-colors.avif)
+![](briefe/dominik-sobotta.imgp5929.jpg.scan.avif)
 
 
 
