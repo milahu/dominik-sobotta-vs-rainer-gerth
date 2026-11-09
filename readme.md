@@ -479,6 +479,87 @@ Meine Freundin aus Trostberg kennt ihn von früher.
 
 
 
+## Messer
+
+![](img/56fe85be153e396397bdcc25b193e14b,10e1f338.jpeg)
+
+> Küchenmesser 22,5cm Edelstahl mit Softgriff 1,99 €
+
+![](img/48d997c46b4990d86464b12d94af673c,402216dc.jpeg)
+
+Wahrscheinlich dieses Messer:
+
+https://euroshop-online.de/Kuechenmesser/712892-24
+
+<blockquote>
+
+JES Collection Küchenmesser 22,5cm Edelstahl mit Softgriff Rostfrei
+
+Filialpreis: 1,50 EUR
+
+<!-- 98.518 pixels per inch -->
+
+![](img/messer/euroshop-online.de-kuechenmesser-712892_2649541-98.518-px-per-inch.png)
+
+<!-- 117.117 pixels per inch -->
+
+![](img/messer/euroshop-online.de-kuechenmesser-712892_2649542-117.117-px-per-inch.png)
+
+![](img/messer/euroshop-online.de-kuechenmesser-712892_2649542.png)
+
+#### Beschreibung
+
+Scharfes Küchenmesser mit Softgriff, 22,5 cm, 2-farbig sortiert
+
+- 24 x Küchenmesser (24 Stück)
+- Maße: 28x7x3cm
+- Materialeigenschaften: Kunststoff, Edelstahl
+- JES Collection
+- Menge je Karton: 24 Packungen
+- Abgabe nur in ganzen Kartoneinheiten
+- Artikel-Nr.: 712892_24
+
+#### Eigenschaften
+
+- Farbe: sortiert
+- Grundfarbe: 12 x Griff in rot/weiß, 12 x Griff in grau/weiß-
+- Breite: 13 cm
+- Höhe: 12 cm
+- Länge: 28.5 cm
+- Material: Kunststoff, Edelstahl
+
+#### Hersteller
+
+JES-Collection - J.E.Schum GmbH & Co.KG, Am Stein 2, 97080 Würzburg, Tel.: 0931-200120, info@schum.de
+
+</blockquote>
+
+https://www.ebay.de/itm/137216868288
+
+<blockquote>
+
+Küchenmesser kitchen knife 22,5cm
+
+- Marke: JES collection
+- Produktart: Küchenmesser
+- Material: Edelstahl
+
+<!-- 126.802 pixels per inch -->
+
+![](img/messer/ebay.de-itm-137216868288-1-126.802-px-per-inch.webp)
+
+![](img/messer/ebay.de-itm-137216868288-2.webp)
+
+Nicht im Freien verwenden! Nur für den Hausgebrauch!
+
+</blockquote>
+
+- Gesamtlänge: 22,5 cm
+- Klingenlänge: 11 cm
+  - In Deutschland darf man Messer in der Öffentlichkeit führen bis zu einer Klingenlänge von 12 cm ([§42a WaffG](https://www.gesetze-im-internet.de/waffg_2002/__42a.html))
+
+
+
 ## Zensiert von Suchmaschinen
 
 Dieses Git-Repo wird zensiert von mehreren Suchmaschinen:
