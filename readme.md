@@ -479,6 +479,26 @@ Meine Freundin aus Trostberg kennt ihn von früher.
 
 
 
+## Zensiert von Suchmaschinen
+
+Dieses Git-Repo wird zensiert von mehreren Suchmaschinen:
+
+- https://www.google.com/search?q=%22Dominik+Sobotta%22+%22Rainer+Gerth%22
+- https://yandex.com/search/?text=%22Dominik+Sobotta%22+%22Rainer+Gerth%22
+
+Noch unzensiert:
+
+- https://duckduckgo.com/?q=%22Dominik+Sobotta%22+%22Rainer+Gerth%22&ia=web
+- https://www.bing.com/search?q=%22Dominik+Sobotta%22+%22Rainer+Gerth%22
+- https://de.search.yahoo.com/search?p=Dominik+Sobotta+Rainer+Gerth+GitHub+milahu+tyrannenmord
+
+Zum Testen einfach Mal suchen nach:
+
+- "Dominik Sobotta" "Rainer Gerth"
+- Dominik Sobotta Rainer Gerth GitHub milahu tyrannenmord
+
+
+
 ## Stichworte
 
 - ISK Wasserburg
