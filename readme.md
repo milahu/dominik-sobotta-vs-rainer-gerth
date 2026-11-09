@@ -524,6 +524,7 @@ Zum Testen einfach Mal suchen nach:
   - Tod allen Psychiatrischen Gutachtern
 - Psychiatrie ist Folter
   - Psychiatrie ist ein Folterknast
+- Wer ist "Dominik S."? Wer ist der Verrückte der am 8. April 2024 den Dr. Rainer Gerth erstochen hat in Wasserburg am Inn?
 
 
 
